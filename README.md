@@ -21,12 +21,10 @@ Understanding your audience's expertise level is crucial for effectively present
 
      Regular Folks: Assume little to no prior knowledge. Start with foundational concepts and build up to more complex ideas, ensuring that each step is clearly understood before moving on.
 
-
 4. Use of Visual Aids and Examples
     Tech Experts: Use detailed diagrams, schematics, code snippets, or data visualizations that require a higher level of interpretation. 
 
      Regular Folks: Use simple, clear visuals, like charts, basic diagrams, or relatable examples. Visual aids should clarify and reinforce the information rather than complicate it.
-
 
 5. Interaction and Feedback
     Tech Experts: Encourage more interactive discussions, where you can delve into specific questions, challenge assumptions, and explore nuanced topics.
